@@ -5,7 +5,7 @@ python+CSMAR 自动绘制财务分析图表
 
 文件依赖：从Csmar数据库下载的财务报告数据
 
-核心函数：
+核心函数：  
 `
 Graphing():
   major_list  一个列表，里面放置Bar和Line类
