@@ -59,7 +59,7 @@
     label='': 标签，数据名字;  
     ls='--': 线的样式  
     
-- StreamGraphing  
+- StreamGraphing.ipynb  
   可以绘制河流图
   
 ## 更新日志
